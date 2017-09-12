@@ -1,1 +1,1 @@
-options(servr.daemon = TRUE, blogdown.author = "Meenakshi Parameshwaran")
+options(servr.daemon = TRUE, blogdown.author = "Meenakshi Parameshwaran", blogdown.subdir = "blog")
