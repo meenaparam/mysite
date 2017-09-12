@@ -1,27 +1,21 @@
 name: Employment
 source:
-  - prof: Software Engineer
-    place: Edinburgh, UK
-    time: 2015 to Present
-    description: Lorem ipsum dolor sit amet, his et viris petentium philosophia, at vix debitis deleniti. At vis velit volumus alienum, agam vocent assueverit usu ex.
+  - prof: Researcher
+    place: Education Datalab, London, UK
+    time: June 2017 to September 2017
+    description: I worked with colleagues from UCL and Education Datalab on an EEF-funded project looking at the predictive validity of commercial tests used in EEF trials.
 
-  - prof: iOS Developer
-    place: Glasgow, UK
-    time: 2014 to 2015
-    description: Qui bonorum menandri intellegebat ex, mel quando oblique an. Et eam virtute debitis philosophia, unum ancillae disputationi vim in. Ipsum vidisse meliore ex eum, delectus tacimates conclusionemque has ei. Eam ubique cetero scribentur ne.
+  - prof: Statistician
+    place: Cambridge Assessment, Cambridge, UK
+    time: November 2016 to May 2017
+    description: I worked as a researcher in the educational measurement team of this international assessment organisation. Projects included developing an automated malpractice detection system, comparing the performance of markers to senior examiners, and looking at the performance trajectories of different types of assessors.
 
-  - prof: Teaching Assistant
-    place: University of Glasgow, Glasgow, UK
-    time: 2013 to 2014
-    description: Latine bonorum deserunt at nam. Mea nisl officiis eu, propriae similique has te, mei an brute meliore electram. Quo admodum omittantur ei, etiam principes at eos. Sit vocent commodo ceteros in, at mel idque everti.
+  - prof: Researcher
+    place: Education Datalab, London, UK
+    time: January 2015 to October 2016
+    description: I worked as a quantitative researcher to provide data management, analysis and research skills to this educational research and data company. I asked and answered pressing education policy questions using large national and international datasets, both specific to education and others (e.g. election data, local government data, census data). I also taught research, data and statistical skills to teachers and leaders, and presented research findings at conferences. Many of my research findings are publicly available through reports, academic articles, and blog posts.
   
-  - prof: iOS Developer
-    place: Student Start-up, Glasgow, UK
-    time: 2013
-    description: Mucius sententiae et mei, nec an diam ignota, tale epicurei intellegebat ne sit. Sumo pertinacia contentiones duo ei.
-
-  - prof: Web Developer
-    place: Birmingham, UK
-    time: 2007 to 2010
-    description: Et sed tritani volumus, dico rebum facilisis ea sed. His mundi efficiantur concludaturque no. Cu eos argumentum constituam repudiandae, eu eum lorem nostrum, ei mel dicam iriure fabellas.
-    
+  - prof: Researcher
+    place: LKMco, London, UK
+    time: January 2015 to October 2015
+    description: I worked as a mixed methods researcher at this youth and social justice think-and-action tank. I was responsible for overseeing and delivering the large scale evaluation of the Inclusive Futures program for the Youth Sport Trust. I was a co-author of the “Why Teach?” national teacher survey report, which included a latent class analysis of teacher types and a predictive model of teacher drop out.
