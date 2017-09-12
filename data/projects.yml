@@ -1,7 +1,7 @@
 name: Projects
 source:
   - icon: fa fa-github
-    description: This website!
+    description: This website, built using Hugo and blogdown in R!
     link: https://github.com/meenaparam/mysite
 
   - icon: fa fa-github

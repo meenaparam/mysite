@@ -5,8 +5,3 @@ tags: ["projects"]
 title: "Projects"
 showpagemeta: false
 ---
-
-**SOME OTHER PROJECTS**
-
-* Project 1
-* Project 2

@@ -1,9 +1,12 @@
 languageCode = "en-UK"
 layoutdir = "layouts"
-publishdir = "public"
+publishdir = "../public/cv"
 baseurl = "http://meenaparam.com"
 googleAnalytics = "UA-106317524-1"
 theme = "hugo-vitae"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown", "_files$", "_cache$"]
+relativeurls = true
+
 
 [params]
   author = "Meenakshi Parameshwaran"
