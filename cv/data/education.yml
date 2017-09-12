@@ -4,39 +4,34 @@ source:
     univ: University College London
     place: London, UK
     date: 2017 to Present
-    description: Amongst others, I intend to complete modules in natural language processing, 
-    Bayesian methods, computer vision, and deep learning. I will also be writing 
-    a thesis as part of my studies.
+    type: Taught
+    description: Amongst others, I intend to complete modules in natural language processing, Bayesian methods, computer vision, and deep learning. I will also be writing a thesis as part of my studies.
 
   - title: DPhil in Sociology
     univ: Nuffield College, University of Oxford
     place: Oxford, UK
     date: 2009 to 2013
+    type: Research
     description: My thesis was on “Social explanations for ethnic differences in educational outcomes”. A social justice quantitative research thesis that highlighted the overlapping economic and social inequalities faced by different pupil populations in the English school system. Alongside research and presentation skills, I completed modules in advanced statistical techniques, such as Structural Equational Modelling, Hierarchical Linear Modelling, Panel Data Analysis and Social Network Analysis using R.
 
   - title: MSc in Sociology
     univ: Wolfson College, University of Oxford
     place: Oxford, UK
     date: 2008 to 2009
+    type: Taught
     description: My thesis was on the effects of the educational maintenance allowance on post-16 participation and attainment. I competed modules in Sociology, Social Stratification, Sociology of Education, Political Sociology, introductory and intermediate statistics.
 
   - title: Qualified Teacher Status (QTS)
     univ: Canterbury Christ Church University
     place: Canterbury, UK
     date: 2006 to 2008
+    type: Placement
     description: I achieved QTS through the Teach First programme.
 
   - title: BA in Philosophy, Politics, and Economics
     univ: Keble College, University of Oxford
     place: Oxford, UK
     date: 2003 to 2006
-    description: I completed modules in
-     - microeconomics
-     - macroeconomics
-     - comparative demographic systems
-     - economics of developing nations
-     - theory of international relations
-     - international relations in the cold war era
-     - political sociology
-     - sociology of industrial societies
+    type: Taught
+    description: I completed 4 economics modules and 4 politics modules.
      

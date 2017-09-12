@@ -4,14 +4,13 @@
   <article>
     <header>
       <h1>{{ .title }}</h1>
-      <span>{{ .univ }}</span>
-      <span>
-        <address>{{ .place }}</address>
+      <div>{{ .univ }}</div>
+     <span>
         <time>{{ .date }}</time>
       </span>
     </header>
     <p>
-      {{ .description }}
+        {{ .description }}   
     </p>
   </article>
   {{ end }}
