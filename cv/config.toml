@@ -14,6 +14,7 @@ relativeurls = true
   description = "Meenakshi Parameshwaran's CV"
   avatar = "meena_profile.png"
   email_full = "mailto:meena.param@gmail.com"
+  website_full = "http://www.meenaparam.com/"
   github = "meenaparam"
   twitter = "meenaparam"
   google_maps = "https://www.google.co.uk/maps/place/UCL+Computer+Science/@51.523188,-0.1324129,15z/data=!4m5!3m4!1s0x0:0x921db3ae5ef57ce7!8m2!3d51.523188!4d-0.1324129"
