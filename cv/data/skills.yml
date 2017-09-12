@@ -1,11 +1,11 @@
 name: Programming Skills
-title: Software engineering & web development
+title: Data analysis
 source:
-  - name: [C/C++, Objective-C]
-    stars: 5
-
-  - name: [Java, Python, PHP, Git]
+  - name: [R, RStudio]
     stars: 4
 
-  - name: [HTML/CSS3, Javascript]
+  - name: [SQL, Git, LaTeX]
+    stars: 3
+
+  - name: [Python, STATA, Tableau]
     stars: 3
