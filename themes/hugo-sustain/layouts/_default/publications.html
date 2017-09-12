@@ -1,0 +1,17 @@
+{{ partial "head" . }}
+<section id="publications">
+  <div class="container">
+    <h3>{{ .Site.Data.publications.name }}</h3>
+    <div class="panel panel-default">
+      <div class="panel-body">
+      {{ range $el := .Site.Data.publications.source }}
+        <h5>
+          <strong><a href="{{ $el.url}}">{{ $el.title }} </a></strong> 
+        </h5>
+        <p>{{ $el.authors }} {{ $el.date }}</p>
+        </p><i>{{ $el.publication }} </i></p>
+      {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
