@@ -1,0 +1,10 @@
+name: Projects
+source:
+  - icon: fa fa-github
+    description: This website!
+    link: https://github.com/meenaparam/mysite
+
+  - icon: fa fa-github
+    description: An interactive Ofsted grade predictor built using Shiny
+    link: https://github.com/meenaparam/ofstedprediction
+    

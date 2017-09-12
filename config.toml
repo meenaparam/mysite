@@ -1,0 +1,60 @@
+baseurl = "http://meenaparam.com/"
+languageCode = "en-UK"
+title = "Meenakshi Parameshwaran"
+theme = "hugo-sustain"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown", "_files$", "_cache$"]
+highlight = true
+googleAnalytics = "UA-106317524-1"
+disqusShortname = "meenaparam"
+relativeurls = true
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  avatar = "meena_profile.png"
+  author = "Meenakshi Parameshwaran"
+  description = "Meenakshi Parameshwaran's personal website"
+
+  
+  highlightjsVersion = "9.11.0"
+  highlightjsCDN = "//cdn.bootcss.com"
+  highlightjsLang = ["r", "yaml"]
+  highlightjsTheme = "github"
+
+  MathJaxCDN = "//cdn.bootcss.com"
+  MathJaxVersion = "2.7.1"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
+
+[params.social]
+  Github        = "meenaparam"
+  Gitlab        = "meenaparam"
+  Email         = "meena.param@gmail.com"
+  Twitter       = "meenaparam"
+  LinkedIn      = "meenakshiparameshwaran"
+  Stackoverflow = "meenaparam"
+
+## Main Menu
+[[menu.main]]
+  name = "blog"
+  weight = 100
+  identifier = "blog"
+  url = "/blog/"
+[[menu.main]]
+  name = "projects"
+  identifier = "projects"
+  weight = 200
+  url = "/projects/"
+[[menu.main]]
+  name = "publications"
+  identifier = "publications"
+  weight = 300
+  url = "/publications/"
+[[menu.main]]
+  name = "cv"
+  identifier = "cv"
+  weight = 400
+  url = "/cv/"
